@@ -308,6 +308,9 @@ nav ul li a:hover, .active{
 .social-links{
     width: 25%;
 }
+.social-links ul li a{
+    color: #333;
+}
 .fa-rss, .fa-sitemap, .social-links i[class^="fa"]{
     color: #333;
     font-size: 18px;
