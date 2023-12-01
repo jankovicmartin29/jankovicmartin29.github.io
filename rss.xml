@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Rhapsody in Pixels</title>
+        <link>https://jankovicmartin29.github.io/</link>
+        <description>Follow our new updates.</description>
+        <item>
+            <title>Gallery</title>
+            <link>https://jankovicmartin29.github.io/gallery.html</link>
+            <description>Follow our new photo posts.</description>
+        </item>
+        <item>
+            <title>About us</title>
+            <link>https://jankovicmartin29.github.io/about-us.html</link>
+            <description>Follow our updates about our team.</description>
+        </item>
+    </channel>
+</rss>
