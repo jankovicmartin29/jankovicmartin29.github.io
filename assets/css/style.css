@@ -290,6 +290,9 @@ nav ul li a:hover, .active{
     list-style-type: none;
     margin: 10px;
 }
+.social-links a{
+    color: #333;
+}
 .footer-newsletter input, .footer-newsletter button{
     padding: 5px 10px;
     margin: 10px 0px;
@@ -307,9 +310,6 @@ nav ul li a:hover, .active{
 }
 .social-links{
     width: 25%;
-}
-.social-links ul li a{
-    color: #333;
 }
 .fa-rss, .fa-sitemap, .social-links i[class^="fa"]{
     color: #333;
